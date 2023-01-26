@@ -2,8 +2,7 @@
 # Halynn Kim's First CS193 Homework
 
 - Very helpful
-- interesting
-- fun 
+- Useful and interesting information
 
 
 
